@@ -1,0 +1,15 @@
+.jumbBack {
+    background-image: url('../assets/images/b1_edited.jpg') !important;
+    background-size: cover;
+}
+
+.card {
+    border: none !important;
+}
+
+.teamImg {
+    width: 100%;
+    border-radius: 100%;
+    height: 260px;
+    width: 260px;
+}

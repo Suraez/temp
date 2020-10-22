@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suraez/temp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suraez/temp/issues"
+  },
+  "homepage": "https://github.com/Suraez/temp#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "emailjs-com": "^2.6.3"
+  }
+}
