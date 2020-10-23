@@ -1,0 +1,7 @@
+/* fonepay */
+@media (max-width: 560px) {
+    .mainImg {
+        width: 500px;
+        background-size: cover;
+    }
+}
